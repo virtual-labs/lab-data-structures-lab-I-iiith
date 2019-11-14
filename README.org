@@ -27,8 +27,7 @@
   	                |-- css/
   	                |-- js/
                     |-- images/
-                    |-- vendors/
-                    
+  	                |-- vendors/
   #+END_EXAMPLE
 
 * Steps to build and run a lab
