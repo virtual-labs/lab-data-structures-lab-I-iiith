@@ -1,4 +1,4 @@
-#+TITLE: Data Structures Lab I
+#+TITLE: Data Structures Lab-I
 #+AUTHOR: VLEAD
 #+DATE: [2019-11-14 Mon]
 #+SETUPFILE: ./org-templates/level-0.org
