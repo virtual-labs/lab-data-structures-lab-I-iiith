@@ -1,6 +1,6 @@
 #+TITLE: Data Structures Lab I
 #+AUTHOR: VLEAD
-#+DATE: [2019-06-24 Mon]
+#+DATE: [2019-11-14 Mon]
 #+SETUPFILE: ./org-templates/level-0.org
 #+TAGS: boilerplate(b)
 #+EXCLUDE_TAGS: boilerplate
@@ -27,7 +27,8 @@
   	                |-- css/
   	                |-- js/
                     |-- images/
-                    |-- vendors/		
+                    |-- vendors/
+                    
   #+END_EXAMPLE
 
 * Steps to build and run a lab
