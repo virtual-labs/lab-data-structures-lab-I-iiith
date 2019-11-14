@@ -26,8 +26,8 @@
       	      |-- green-icon/
   	                |-- css/
   	                |-- js/
-  	  	            |-- images/
-  	  	            |-- vendors/		
+                    |-- images/
+                    |-- vendors/		
   #+END_EXAMPLE
 
 * Steps to run an experiment
