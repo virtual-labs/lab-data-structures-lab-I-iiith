@@ -15,20 +15,19 @@
   |-- README.org
   |-- .gitignore
   |-- src/
-      |-- lab/
-      |   |-- Introduction.html
-      |	  |-- Theory.html
-      |	  |-- Objective.html 	 	
-      |        .
-      |        .
-      |        .
-      |  
-      |-- themes/ 
-      	  |-- green-icon/
-  	  		  |-- css/
-  	  		  |-- js/
-  	  		  |-- images/
-  	  		  |-- vendors/		
+        |-- lab/
+        |    |-- Introduction.html
+        |    |-- Theory.html
+        |    |-- Objective.html 	 	
+        |        .
+        |        .
+        |        .
+        |-- themes/ 
+      	        |-- green-icon/
+  	            |-- css/
+  	            |-- js/
+  	  	        |-- images/
+  	  	        |-- vendors/		
   #+END_EXAMPLE
 
 * Steps to run an experiment
