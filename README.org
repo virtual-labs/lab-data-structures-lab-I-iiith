@@ -23,11 +23,11 @@
         |        .
         |        .
         |-- themes/ 
-      	        |-- green-icon/
-  	            |-- css/
-  	            |-- js/
-  	  	        |-- images/
-  	  	        |-- vendors/		
+      	      |-- green-icon/
+  	                |-- css/
+  	                |-- js/
+  	  	            |-- images/
+  	  	            |-- vendors/		
   #+END_EXAMPLE
 
 * Steps to run an experiment
