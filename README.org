@@ -7,7 +7,7 @@
 #+OPTIONS: ^:nil
 
 * Introduction
-  This document captures the repo structure and instructions to run an experiment.
+  This document captures the repo structure and instructions to run a lab.
 
 * Repository Structure
   #+BEGIN_EXAMPLE
@@ -30,39 +30,27 @@
                     |-- vendors/		
   #+END_EXAMPLE
 
-* Steps to run an experiment
-  *STEP 1 :* Clone the experiment repository
+* Steps to build and run a lab
+  *STEP 1 :* Clone the lab repository
   #+BEGIN_EXAMPLE
-  git clone https://github.com/vitual-labs/<EXPERIMENT>.git
+  git clone https://github.com/vitual-labs/data-structures-lab-I.git
   #+END_EXAMPLE
 
-  *STEP 2 :* Change directory to experiment repo
+  *STEP 2 :* Change directory to lab repo
   #+BEGIN_EXAMPLE
-  cd <EXPERIMENT>
+  cd data-structures-lab-I
   #+END_EXAMPLE
 
   *STEP 3 :* Removes the build directory and builds the sources
   #+BEGIN_EXAMPLE
-  make -k build
+  make -k all
   #+END_EXAMPLE
   
-  *STEP 4 :* Run the experiment server
+  *STEP 4 :* Run the lab server
   #+BEGIN_EXAMPLE
   make -k run
   #+END_EXAMPLE
   
-  To include quiz sources as a library in experiment refer
-  [[https://github.com/virtual-labs/srip-quiz/blob/develop/docs/user-manual.org][quiz user manual]].
   
-  To remove the build 
-  #+BEGIN_EXAMPLE
-  make -k clean-build
-  #+END_EXAMPLE
-
-  To remove the srip repo from experiment 
-  #+BEGIN_EXAMPLE
-  make -k clean-srip-quiz
-  #+END_EXAMPLE
-
   
 
