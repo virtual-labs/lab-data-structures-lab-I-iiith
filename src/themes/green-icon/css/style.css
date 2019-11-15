@@ -1376,12 +1376,12 @@ font-size: 30px;
 }
 
 /* Rules to fix the footer at the bottom of the page */
-footer {
+/*footer {
 	position: fixed;
-  	left: 0;
+  	margin-left: 0;
   	bottom: 0;
   	width: 100%;
-}
+}*/
 
 /* To justify the paragraph text */
 p {
