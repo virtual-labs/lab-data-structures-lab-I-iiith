@@ -1356,6 +1356,8 @@ footer{
 
 .footer-div {
 	margin-top: inherit !important;
+	padding-left: 60px !important;
+	padding-right: 60px !important;
 }
 
 /* To justify the paragraph text */
