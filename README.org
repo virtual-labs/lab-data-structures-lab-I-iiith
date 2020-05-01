@@ -33,7 +33,7 @@
 * Steps to build and run a lab
   *STEP 1 :* Clone the lab repository
   #+BEGIN_EXAMPLE
-  git clone https://github.com/vitual-labs/data-structures-lab-I.git
+  https://github.com/virtual-labs/data-structures-lab-II-iiith
   #+END_EXAMPLE
 
   *STEP 2 :* Change directory to lab repo
