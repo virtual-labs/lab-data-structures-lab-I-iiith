@@ -4,10 +4,9 @@
 	"link": "http://vlab.co.in/broad-area-computer-science-and-engineering"
     },
     "lab": "Data Structures – 1",
-    "phase": "3",
-    "deployLab":true,
+    "phase": 3,
     "collegeName": "IIITH",
-    "baseUrl": "http://ds1-iiith.vlabs.ac.in/",
+    "baseUrl": "ds1-iiith.vlabs.ac.in",
 	"introduction": "Welcome to the Data Structures Lab - I developed at IIIT Hyderabad. Data Structures (also called Data Structures and Algorithms in some places) is a core course in all computer science undergraduate curricula. The course is the basis for understanding several data structures and also algorithms that operate on them. The course forms the foundation for almost all computer science subjects: compilers, operating systems, databases, AI and software engineering. The course comes with a lab in most universities in India. The associated lab in university curricula focuses on implementation of algorithms operating on the data structures, i.e., coding programs on the data structures and algorithms. Students embarking on the task of writing programs, however, often have difficulty visualizing how operations and algorithms modify a data structure. As a result students are often unable to understand or show the execution of an algorithm on a given data structure and write code effectively. Furthermore, students are unable to visually reason about the time and space complexities associated with an algorithm running on a data structure. The interactive experiments in this lab will give the students an opportunity for learning and better understanding of using algorithms.",
 	"experiment-sections":[
 	    {
@@ -25,21 +24,21 @@
 					"short-name": "merge-sort",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/merge-sort",
 				        "tag": "v3.0.4",
- 	         		        "deploy": true
+ 	         		        "deploy": false
 				},
 				{
 					"name": "Heap Sort",
 					"short-name": "heap-sort",
 				        "repo": "https://gitlab.com/vlead-projects/experiments/ds/heap-sort",
 				        "tag": "v0.0.6",
- 	         	               "deploy": true
+ 	         	               "deploy": false
 				},
 				{
 					"name": "Quick Sort",
 					"short-name": "quick-sort",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/quick-sort",
 				        "tag": "v1.0.4",
-	 			        "deploy": true
+	 			        "deploy": false
 				}
 			]		
 	    },	    
@@ -51,14 +50,14 @@
 					"short-name": "depth-first-search",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/depth-first-search",
 				        "tag": "v4.0.4",
-				        "deploy": true
+				        "deploy": false
 				},
 				{
 					"name": "Breadth First Search",
 					"short-name": "breadth-first-search",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/breadth-first-search",
 				        "tag": "v4.0.4",
-   				        "deploy": true
+   				        "deploy": false
 				}
 			]		
 		},
@@ -70,14 +69,14 @@
 					"short-name": "tree-traversal",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/tree-traversal",
 				        "tag": "v2.0.4",
-				       "deploy": true
+				       "deploy": false
 				},
 				{
 					"name": "Binary Search Trees",
 					"short-name": "binary-search-trees",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/binary-search-trees",
 				        "tag": "v2.0.7",
- 	         		        "deploy": true
+ 	         		        "deploy": false
 				}
 			]		
 		},
@@ -89,14 +88,14 @@
 					"short-name": "stacks-queues",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/stacks-queues",
 				        "tag": "v3.0.4",
-				        "deploy": true
+				        "deploy": false
 				},
 				{
 					"name": "Infix to Postfix",
 					"short-name": "infix-postfix",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/infix-postfix",
 				        "tag": "v4.0.4",
-   				        "deploy": true
+   				        "deploy": false
 				}
 			]		
 		},
@@ -108,14 +107,14 @@
 					"short-name": " unsorted-arrays",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/unsorted-arrays",
 				        "tag": "v2.0.4",
-				        "deploy": true
+				        "deploy": false
 				},
 				{
 					"name": "Hashtables",
 					"short-name": "hash-tables",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/hash-tables",
 				        "tag": "v3.0.4",
-				        "deploy": true
+				        "deploy": false
 				}
 			]		
 		},
@@ -127,14 +126,14 @@
 					"short-name": "linked-list",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/linked-list",
 				        "tag": "v1.0.5",
-				        "deploy": true
+				        "deploy": false
 				},
 				{
 					"name": "Polynomial Arithmetic using linked lists",
 					"short-name": "poly-arithmetic",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/poly-arithmetic",
 				        "tag": "v1.0.4",
-				        "deploy": true
+				        "deploy": false
 				}
 			]		
 		}
