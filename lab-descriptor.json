@@ -49,7 +49,7 @@
 					"name": "Depth First Search",
 					"short-name": "depth-first-search",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/depth-first-search",
-				        "tag": "v4.0.4",
+				        "tag": "v4.0.5",
 				        "deploy": true
 				},
 				{
