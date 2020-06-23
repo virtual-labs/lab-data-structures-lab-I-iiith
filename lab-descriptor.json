@@ -104,7 +104,7 @@
 			"experiments": [
 				{
 					"name": "Unsorted Arrays",
-					"short-name": " unsorted-arrays",
+					"short-name": "unsorted-arrays",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/unsorted-arrays",
 				        "tag": "v2.0.4",
 				        "deploy": true
