@@ -17,28 +17,28 @@
 					"short-name": "bubble-sort",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/bubble-sort",
 				        "tag": "v2.0.6",
-				        "deploy": true 
+				        "deploy": false 
 				},
 				{
 					"name": "Merge Sort",
 					"short-name": "merge-sort",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/merge-sort",
 				        "tag": "v3.0.5",
- 	         		        "deploy": true
+ 	         		        "deploy": false
 				},
 				{
 					"name": "Heap Sort",
 					"short-name": "heap-sort",
 				        "repo": "https://gitlab.com/vlead-projects/experiments/ds/heap-sort",
 				        "tag": "v0.0.6",
- 	         	               "deploy": true
+ 	         	               "deploy": false
 				},
 				{
 					"name": "Quick Sort",
 					"short-name": "quick-sort",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/quick-sort",
 				        "tag": "v1.0.4",
-	 			        "deploy": true
+	 			        "deploy": false
 				}
 			]		
 	    },	    
@@ -50,14 +50,14 @@
 					"short-name": "depth-first-search",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/depth-first-search",
 				        "tag": "v4.0.5",
-				        "deploy": true
+				        "deploy": false
 				},
 				{
 					"name": "Breadth First Search",
 					"short-name": "breadth-first-search",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/breadth-first-search",
 				        "tag": "v4.0.4",
-   				        "deploy": true
+   				        "deploy": false
 				}
 			]		
 		},
@@ -69,13 +69,13 @@
 					"short-name": "tree-traversal",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/tree-traversal",
 				        "tag": "v2.0.4",
-				       "deploy": true
+				       "deploy": false
 				},
 				{
 					"name": "Binary Search Trees",
 					"short-name": "binary-search-trees",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/binary-search-trees",
-				        "tag": "v2.0.7",
+				        "tag": "v2.0.8",
  	         		        "deploy": true
 				}
 			]		
@@ -88,14 +88,14 @@
 					"short-name": "stacks-queues",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/stacks-queues",
 				        "tag": "v3.0.4",
-				        "deploy": true
+				        "deploy": false
 				},
 				{
 					"name": "Infix to Postfix",
 					"short-name": "infix-postfix",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/infix-postfix",
 				        "tag": "v4.0.4",
-   				        "deploy": true
+   				        "deploy": false
 				}
 			]		
 		},
@@ -107,14 +107,14 @@
 					"short-name": "unsorted-arrays",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/unsorted-arrays",
 				        "tag": "v2.0.4",
-				        "deploy": true
+				        "deploy": false
 				},
 				{
 					"name": "Hashtables",
 					"short-name": "hash-tables",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/hash-tables",
 				        "tag": "v3.0.4",
-				        "deploy": true
+				        "deploy": false
 				}
 			]		
 		},
@@ -126,14 +126,14 @@
 					"short-name": "linked-list",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/linked-list",
 				        "tag": "v1.0.5",
-				        "deploy": true
+				        "deploy": false
 				},
 				{
 					"name": "Polynomial Arithmetic using linked lists",
 					"short-name": "poly-arithmetic",
 					"repo": "https://gitlab.com/vlead-projects/experiments/ds/poly-arithmetic",
 				        "tag": "v1.0.4",
-				        "deploy": true
+				        "deploy": false
 				}
 			]		
 		}
