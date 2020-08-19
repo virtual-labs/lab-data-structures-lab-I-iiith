@@ -18,10 +18,10 @@ create-build-dir:
 copy-lab-sources:
 	cp -rf ${SRC_DIR}/lab/* ${BUILD_DIR}
 
-copy-lab-common-css:
+copy-exp-common-css:
 	cp -rf ${SRC_DIR}/static/${exp-common-css}/* ${BUILD_DIR}
 
-copy-lab-common-js:
+copy-exp-common-js:
 	cp -rf ${SRC_DIR}/static/${exp-common-js}/* ${BUILD_DIR}
 
 copy-libs:
