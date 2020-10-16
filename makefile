@@ -28,7 +28,6 @@ copy-exp-common-js:
 copy-exp-ere:
 	cp -rf ${SRC_DIR}/static/* ${BUILD_DIR}
 
-
 copy-libs:
 	cp -rf ${SRC_DIR}/libs ${BUILD_DIR}
 
