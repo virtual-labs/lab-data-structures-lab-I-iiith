@@ -154,7 +154,7 @@
       "JNTU Data Structures Lab"
     ]
   },
-  "version": "v1.7.0",
+  "version": "v1.8.0",
   "exp_name": "Polynomial Arithmetic using linked lists",
   "exp_short_name": "poly-arithmetic"
 }
