@@ -16,7 +16,7 @@
           "name": "Bubble Sort",
           "short-name": "bubble-sort",
           "repo": "https://github.com/virtual-labs/exp-bubble-sort-iiith.git",
-          "tag": "v1.0.4",
+          "tag": "v1.0.5",
           "deploy": true
         },
         {
@@ -30,14 +30,14 @@
           "name": "Heap Sort",
           "short-name": "heap-sort",
           "repo": "https://github.com/virtual-labs/exp-heap-sort-iiith",
-          "tag": "v1.0.5",
+          "tag": "v1.0.6",
           "deploy": true
         },
         {
           "name": "Quick Sort",
           "short-name": "quick-sort",
           "repo": "https://github.com/virtual-labs/exp-quick-sort-iiith",
-          "tag": "v1.0.5",
+          "tag": "v1.0.6",
           "deploy": true
         }
       ]
@@ -49,14 +49,14 @@
           "name": "Depth First Search",
           "short-name": "depth-first-search",
           "repo": "https://github.com/virtual-labs/exp-dfs-iiith",
-          "tag": "v1.0.5",
+          "tag": "v1.0.6",
           "deploy": true
         },
         {
           "name": "Breadth First Search",
           "short-name": "breadth-first-search",
           "repo": "https://github.com/virtual-labs/exp-bfs-iiith/",
-          "tag": "v1.0.4",
+          "tag": "v1.0.5",
           "deploy": true
         }
       ]
@@ -68,14 +68,14 @@
           "name": "Tree Traversal",
           "short-name": "tree-traversal",
           "repo": "https://github.com/virtual-labs/exp-tree-traversal-iiith/",
-          "tag": "v1.0.4",
+          "tag": "v1.0.5",
           "deploy": true
         },
         {
           "name": "Binary Search Trees",
           "short-name": "binary-search-trees",
           "repo": "https://github.com/virtual-labs/exp-bst-iiith",
-          "tag": "v1.0.4",
+          "tag": "v1.0.5",
           "deploy": true
         }
       ]
@@ -87,14 +87,14 @@
           "name": "Stacks and Queues",
           "short-name": "stacks-queues",
           "repo": "https://github.com/virtual-labs/exp-stacks-queues-iiith",
-          "tag": "v1.0.5",
+          "tag": "v1.0.6",
           "deploy": true
         },
         {
           "name": "Infix to Postfix",
           "short-name": "infix-postfix",
           "repo": "https://github.com/virtual-labs/exp-infix-postfix-iiith",
-          "tag": "v1.0.4",
+          "tag": "v1.0.5",
           "deploy": true
         }
       ]
@@ -106,14 +106,14 @@
           "name": "Unsorted Arrays",
           "short-name": "unsorted-arrays",
           "repo": "https://github.com/virtual-labs/exp-unsorted-arrays-iiith",
-          "tag": "v1.0.4",
+          "tag": "v1.0.5",
           "deploy": true
         },
         {
           "name": "Hashtables",
           "short-name": "hash-tables",
           "repo": "https://github.com/virtual-labs/exp-hashtables-iiith",
-          "tag": "v1.0.4",
+          "tag": "v1.0.5",
           "deploy": true
         }
       ]
@@ -125,14 +125,14 @@
           "name": "Linked lists",
           "short-name": "linked-list",
           "repo": "https://github.com/virtual-labs/exp-linked-lists-iiith",
-          "tag": "v1.0.4",
+          "tag": "v1.0.5",
           "deploy": true
         },
         {
           "name": "Polynomial Arithmetic using linked lists",
           "short-name": "poly-arithmetic",
           "repo": "https://github.com/virtual-labs/exp-polynomial-arithmetic-iiith",
-          "tag": "v1.0.4",
+          "tag": "v1.0.5",
           "deploy": true
         }
       ]
