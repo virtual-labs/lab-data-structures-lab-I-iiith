@@ -31,6 +31,13 @@
           "repo": "https://github.com/virtual-labs/exp-dfs-iiith",
           "tag": "v1.0.9",
           "deploy": true
+        },
+        {
+          "name": "Breadth First Search",
+          "short-name": "breadth-first-search",
+          "repo": "https://github.com/virtual-labs/exp-bfs-iiith/",
+          "tag": "v1.0.7",
+          "deploy": true
         }
       ]
     }
@@ -51,7 +58,7 @@
       "JNTU Data Structures Lab"
     ]
   },
-  "version": "v1.19.5",
-  "exp_name": "Depth First Search",
-  "exp_short_name": "depth-first-search"
+  "version": "v1.19.6",
+  "exp_name": "Breadth First Search",
+  "exp_short_name": "breadth-first-search"
 }
