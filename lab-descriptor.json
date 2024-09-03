@@ -137,10 +137,12 @@
                     "tag": "v1.0.6",
                     "deploy": true
                 }
-            ],
-            "targetAudience": {
-                "UG": [
-                    " Data Structures & Algorithms for 1st & 2nd year B. Tech./ B.E in Computer Science & Information Technology <br/>- B.Sc / B.S in Computer Science "
+            ]
+        }
+    ],
+        "targetAudience": {
+              "UG": [
+               " Data Structures & Algorithms for 1st & 2nd year B. Tech./ B.E in Computer Science & Information Technology <br/>- B.Sc / B.S in Computer Science "
                 ],
                 "PG": [
                     "Computer Science, Information Technology, Compilers, Operating systems, Databases, AI and Software engineering. <br/> - Ph. D. Beginners"
@@ -155,5 +157,3 @@
                 ]
             }
         }
-    ]
-}
