@@ -20,6 +20,27 @@
           "repo": "https://github.com/virtual-labs/exp-bubble-sort-iiith.git",
           "tag": "v1.0.9",
           "deploy": true
+        },
+        {
+          "name": "Merge Sort",
+          "short-name": "merge-sort",
+          "repo": "https://github.com/virtual-labs/exp-merge-sort-iiith",
+          "tag": "v1.0.8",
+          "deploy": true
+        },
+        {
+          "name": "Heap Sort",
+          "short-name": "heap-sort",
+          "repo": "https://github.com/virtual-labs/exp-heap-sort-iiith",
+          "tag": "v1.0.7",
+          "deploy": true
+        },
+        {
+          "name": "Quick Sort",
+          "short-name": "quick-sort",
+          "repo": "https://github.com/virtual-labs/exp-quick-sort-iiith",
+          "tag": "v1.0.8",
+          "deploy": true
         }
       ]
     },
@@ -41,8 +62,83 @@
           "deploy": true
         }
       ]
-    }
-  ],
+    },
+        {
+      "sect-name": "Trees",
+      "experiments": [
+        {
+          "name": "Tree Traversal",
+          "short-name": "tree-traversal",
+          "repo": "https://github.com/virtual-labs/exp-tree-traversal-iiith",
+          "tag": "v1.0.7",
+          "deploy": true
+        },
+        {
+          "name": "Binary Search Trees",
+          "short-name": "binary-search-trees",
+          "repo": "https://github.com/virtual-labs/exp-bst-iiith",
+          "tag": "v1.0.7",
+          "deploy": true
+        }
+      ]
+        },
+          {
+      "sect-name": "Stacks and Queues",
+      "experiments": [
+        {
+          "name": "Stacks Queues",
+          "short-name": "stacks-queues",
+          "repo": "https://github.com/virtual-labs/exp-stacks-queues-iiith",
+          "tag": "v1.0.7",
+          "deploy": true
+        },
+        {
+          "name": "Infix to Postfix",
+          "short-name": "infix-postfix",
+          "repo": "https://github.com/virtual-labs/exp-infix-postfix-iiith",
+          "tag": "v1.0.7",
+          "deploy": true
+        }
+      ]
+      },
+    
+          {
+      "sect-name": "Searching",
+      "experiments": [
+        {
+          "name": "Unsorted Arrays",
+          "short-name": "unsorted-arrays",
+          "repo": "https://github.com/virtual-labs/exp-unsorted-arrays-iiith",
+          "tag": "v1.0.7",
+          "deploy": true
+        },
+        {
+          "name": "Hashtables",
+          "short-name": "hashtables",
+          "repo": "https://github.com/virtual-labs/exp-hashtables-iiith",
+          "tag": "v1.0.7",
+          "deploy": true
+        }
+      ]
+     },
+     {
+      "sect-name": "Linked Lists",
+      "experiments": [
+        {
+          "name": "Linked lists",
+          "short-name": "linked-lists",
+          "repo": "https://github.com/virtual-labs/exp-linked-lists-iiith",
+          "tag": "v1.0.7",
+          "deploy": true
+        },
+        {
+          "name": "Polynomial Arithmetic using linked lists",
+          "short-name": "polynomial-arithmetic",
+          "repo": "https://github.com/virtual-labs/exp-polynomial-arithmetic-iiith",
+          "tag": "v1.0.6",
+          "deploy": true
+        }
+      ],
   "targetAudience": {
     "UG": [
       " Data Structures & Algorithms for 1st & 2nd year B. Tech./ B.E in Computer Science & Information Technology <br/>- B.Sc / B.S in Computer Science "
@@ -58,8 +154,9 @@
       "Osmania University Data Structures Lab",
       "JNTU Data Structures Lab"
     ]
-  },
-  "version": "v1.19.22",
-  "exp_name": "Breadth First Search",
-  "exp_short_name": "breadth-first-search"
+  }
+       ]
 }
+    
+
+
