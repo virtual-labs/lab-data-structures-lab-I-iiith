@@ -89,7 +89,7 @@
                     "name": "Stacks Queues",
                     "short-name": "stacks-queues",
                     "repo": "https://github.com/virtual-labs/exp-stacks-queues-iiith",
-                    "tag": "v1.0.8",
+                    "tag": "v1.0.9",
                     "deploy": true
                 },
                 {
