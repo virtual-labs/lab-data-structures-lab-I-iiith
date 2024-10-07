@@ -125,7 +125,7 @@
             "experiments": [
                 {
                     "name": "Linked lists",
-                    "short-name": "linked-lists",
+                    "short-name": "linked-list",
                     "repo": "https://github.com/virtual-labs/exp-linked-lists-iiith",
                     "tag": "v1.0.7",
                     "deploy": true
