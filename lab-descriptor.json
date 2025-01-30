@@ -17,7 +17,7 @@
                 {
                     "name": "Bubble Sort",
                     "short-name": "bubble-sort",
-                    "repo": "https://github.com/virtual-labs/exp-bubble-sort-iiith.git",
+                    "repo": "https://github.com/virtual-labs/exp-bubble-sort-iiith",
                     "tag": "v1.1.2",
                     "deploy": true
                 },
