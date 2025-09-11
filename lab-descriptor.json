@@ -115,7 +115,7 @@
                     "name": "Hashtables",
                     "short-name": "hashtables",
                     "repo": "https://github.com/virtual-labs/exp-hashtables-iiith",
-                    "tag": "v1.1.1",
+                    "tag": "v1.1.2",
                     "deploy": true
                 }
             ]
