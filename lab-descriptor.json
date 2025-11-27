@@ -32,14 +32,14 @@
                     "name": "Heap Sort",
                     "short-name": "heap-sort",
                     "repo": "https://github.com/virtual-labs/exp-heap-sort-iiith",
-                    "tag": "v1.1.2",
+                    "tag": "v1.1.3",
                     "deploy": true
                 },
                 {
                     "name": "Quick Sort",
                     "short-name": "quick-sort",
                     "repo": "https://github.com/virtual-labs/exp-quick-sort-iiith",
-                    "tag": "v1.1.3",
+                    "tag": "v1.1.4",
                     "deploy": true
                 }
             ]
@@ -51,7 +51,7 @@
                     "name": "Depth First Search",
                     "short-name": "depth-first-search",
                     "repo": "https://github.com/virtual-labs/exp-dfs-iiith",
-                    "tag": "v1.1.2",
+                    "tag": "v1.1.3",
                     "deploy": true
                 },
                 {
@@ -70,14 +70,14 @@
                     "name": "Tree Traversal",
                     "short-name": "tree-traversal",
                     "repo": "https://github.com/virtual-labs/exp-tree-traversal-iiith",
-                    "tag": "v1.1.2",
+                    "tag": "v1.1.3",
                     "deploy": true
                 },
                 {
                     "name": "Binary Search Trees",
                     "short-name": "binary-search-trees",
                     "repo": "https://github.com/virtual-labs/exp-bst-iiith",
-                    "tag": "v1.1.3",
+                    "tag": "v1.1.4",
                     "deploy": true
                 }
             ]
@@ -89,7 +89,7 @@
                     "name": "Stacks Queues",
                     "short-name": "stacks-queues",
                     "repo": "https://github.com/virtual-labs/exp-stacks-queues-iiith",
-                    "tag": "v1.1.3",
+                    "tag": "v1.1.4",
                     "deploy": true
                 },
                 {
@@ -108,7 +108,7 @@
                     "name": "Unsorted Arrays",
                     "short-name": "unsorted-arrays",
                     "repo": "https://github.com/virtual-labs/exp-unsorted-arrays-iiith",
-                    "tag": "v1.1.3",
+                    "tag": "v1.1.4",
                     "deploy": true
                 },
                 {
