@@ -18,21 +18,21 @@
                     "name": "Bubble Sort",
                     "short-name": "bubble-sort",
                     "repo": "https://github.com/virtual-labs/exp-bubble-sort-iiith",
-                    "tag": "v1.1.4",
+                    "tag": "v1.1.5",
                     "deploy": true
                 },
                 {
                     "name": "Merge Sort",
                     "short-name": "merge-sort",
                     "repo": "https://github.com/virtual-labs/exp-merge-sort-iiith",
-                    "tag": "v1.1.4",
+                    "tag": "v1.1.5",
                     "deploy": true
                 },
                 {
                     "name": "Heap Sort",
                     "short-name": "heap-sort",
                     "repo": "https://github.com/virtual-labs/exp-heap-sort-iiith",
-                    "tag": "v1.1.4",
+                    "tag": "v1.1.5",
                     "deploy": true
                 },
                 {
@@ -51,7 +51,7 @@
                     "name": "Depth First Search",
                     "short-name": "depth-first-search",
                     "repo": "https://github.com/virtual-labs/exp-dfs-iiith",
-                    "tag": "v1.1.3",
+                    "tag": "v1.1.4",
                     "deploy": true
                 },
                 {
@@ -89,7 +89,7 @@
                     "name": "Stacks Queues",
                     "short-name": "stacks-queues",
                     "repo": "https://github.com/virtual-labs/exp-stacks-queues-iiith",
-                    "tag": "v1.1.4",
+                    "tag": "v1.1.5",
                     "deploy": true
                 },
                 {
@@ -127,7 +127,7 @@
                     "name": "Linked lists",
                     "short-name": "linked-list",
                     "repo": "https://github.com/virtual-labs/exp-linked-lists-iiith",
-                    "tag": "v1.1.1",
+                    "tag": "v1.1.2",
                     "deploy": true
                 },
                 {
